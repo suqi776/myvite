@@ -6,3 +6,12 @@
 - [VueUse](https://github.com/antfu/vueuse)
 - [Vue Router](https://github.com/vuejs/vue-router)
 - [Iconify](https://iconify.design)
+
+
+
+# Go
+```bash
+npx degit sqsuqi/myvite my-vite-app
+cd my-vite-app
+pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
+```
