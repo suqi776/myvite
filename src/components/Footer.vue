@@ -7,7 +7,7 @@
     <a
       i-carbon-logo-github icon-btn
       rel="noreferrer"
-      href=""
+      href="https://github.com/sqsuqi/myvite"
       target="_blank"
       title="GitHub"
     />
