@@ -7,8 +7,6 @@
 - [Vue Router](https://github.com/vuejs/vue-router)
 - [Iconify](https://iconify.design)
 
-
-
 # Go
 ```bash
 npx degit sqsuqi/myvite my-vite-app

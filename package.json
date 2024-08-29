@@ -1,8 +1,8 @@
 {
   "name": "myvite",
-  "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite --port 7777 --open",
     "build": "vite build",
