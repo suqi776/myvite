@@ -19,9 +19,10 @@ export default defineConfig({
         'vue',
         '@vueuse/core',
       ],
-      dts: true,
+      dts: 'src/auto-import.d.ts',
       dirs: [
-        './src/composables',
+        'src/components',
+        'src/composables',
       ],
       vueTemplate: true,
     }),
