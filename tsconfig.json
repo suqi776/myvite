@@ -1,5 +1,10 @@
 {
   "compilerOptions": {
-    "types": ["vite/client"]
+    "target": "es2018",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */
   }
 }
