@@ -6,8 +6,7 @@
 - [VueUse](https://github.com/antfu/vueuse)
 - [Vue Router](https://github.com/vuejs/vue-router)
 - [Iconify](https://iconify.design)
-
-
+- [eslint](https://github.com/antfu/eslint-config)
 
 # Go
 ```bash
